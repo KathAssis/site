@@ -1,11 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Document</title>
-</head>
-<body>
-   
-</body>
-</html>
+<HTML>
+    <HEAD>
+        <h1><font face="Garamond"><center><size=100>COMPRE SUAS MAKES AQUI<size=100></center></font> <br /><h1>
+        <h1><font color="#DC143C" face="Garamond"><size=200></size><center>MAKE<size=200></center></font><br>
+      <title>LOUCAS POR MAKE</title>  
+  </HTML>
+
+<table>
+    <tr>
+        <th>&nbsp;</th>
+        <th>Valor</th>
+    </tr>
+    <tr>
+        <td>Item 1</td>
+        <td>R$10,00</td>
+    </tr>
+    <tr>
+        <td>Item 2</td>
+        <td>R$20,00</td>
+    </tr>
+</table>
